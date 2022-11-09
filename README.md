@@ -1,2 +1,6 @@
-# POO-Java
-Nsse repositório irei guardar todo conteúdo que estou estudando sobre Programação Orientada a Objeto
+# POO com Java ☕👨‍💻
+Esse repositório será destinado ao conteudo que estou estudando na faculdade
+>POO é a abreviação de Programação Orientada a Objeto
+
+
+## Instalações 🪛
