@@ -16,7 +16,7 @@ Esse repositório será destinado ao conteudo que estou estudando na faculdade
 
 3º - Faça aquela clássica intalação que todos conehem (próximo, próximo, próximo, aceito, próximo, finalizar).
 
-4º - Instale a IDE de sua preferência. 
+4º - Instale a IDE de sua preferência (VScode, Eclipse, entre outos). Irei usar e ensisar instalar o NetBens pois ele foi criado com objetivo justamente de ser usado com java.
 
 Aqui irei mostra a instalção na IDE NetBens. Vá no site do [NetBens](https://netbeans.apache.org/kb/docs/java/javase-jdk8_pt_BR.html). 
 
