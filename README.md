@@ -28,7 +28,7 @@ Aqui irei mostra a instalção na IDE NetBens. Vá no site do [NetBens](https://
 
 ![netbeans apache org_download_nb15__](https://user-images.githubusercontent.com/90152237/200969216-e7aa5b3c-dbe7-41d0-a564-0bbb7d7378ef.png)
 
-7º - clicke no link de download.
+7º - click no link de download.
 
 ![www apache org_dyn_closer cgi_netbeans_netbeans-installers_15_Apache-NetBeans-15-bin-windows-x64 exe](https://user-images.githubusercontent.com/90152237/200969404-6a7678f4-4693-476f-aa95-f527d2549a41.png)
 
