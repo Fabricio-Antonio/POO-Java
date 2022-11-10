@@ -10,7 +10,7 @@ Esse repositório será destinado ao conteudo que estou estudando na faculdade
 
 ![www oracle com_br_java_ (1)](https://user-images.githubusercontent.com/90152237/200966268-8bc1f014-9b40-40a1-a916-6555ef5a0d7b.png)
 
-2º - Escolha de acordo com seu S.O o instalador de sua preferência. 
+2º - Escolha de acordo com seu Escolha o intalador de acordo com seu Sistema operacional (Windows, Linux, Mac) o instalador de sua preferência. 
 
 ![www oracle com_br_java_technologies_downloads_ (1)](https://user-images.githubusercontent.com/90152237/200966546-8283ed75-4950-4bdc-957f-1b6029cdeb54.png)
 
@@ -24,7 +24,7 @@ Aqui irei mostra a instalção na IDE NetBens. Vá no site do [NetBens](https://
 
 ![netbeans apache org_kb_docs_java_javase-jdk8_pt_BR html](https://user-images.githubusercontent.com/90152237/200968989-db3cdefc-a215-4b88-8ca4-773c832b0761.png)
 
-6º - Escolha o intalador de acordo com seu S.O.
+6º - Escolha o intalador de acordo com seu Sistema operacional (Windows, Linux, Mac).
 
 ![netbeans apache org_download_nb15__](https://user-images.githubusercontent.com/90152237/200969216-e7aa5b3c-dbe7-41d0-a564-0bbb7d7378ef.png)
 
