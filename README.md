@@ -66,7 +66,7 @@ Para ser considerado um objeto no código necessita apenas de dois requesitos
 
 Atributos você poderia entender como característica, adjetivos.
 
-E os métodos seria as açôes que poderia ser feita com aquele objeto ou por ele.
+E os métodos seria as ações que poderia ser feita com aquele objeto ou por ele.
 
 ### Criação Objetos 🚗🛠️
 A criação de um objetos tem as seguintes fase:
