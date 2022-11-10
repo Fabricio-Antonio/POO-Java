@@ -88,3 +88,6 @@ A criação de um objetos tem as seguintes fase:
 >Os atributos seriam as caracteristicas do carro: cor azul, 4 portas, modelo quadrado, 4 rodas. 🚗
 
 >Os métodos são as ações: acelerar, frear, dar ré, mudar direção. 🚗💨
+
+## Com os principais conteitos postos na mesa, agora é hora de ir para a prática e apronfundaemnto!
+Eu recomendo o curso de POO do [Curso em Video](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) 100% GRÁTIS, ministrado pelo [Gustavo Guanabara](https://github.com/professorguanabara) 
