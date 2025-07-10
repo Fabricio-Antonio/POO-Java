@@ -2,6 +2,10 @@
 Esse repositório será destinado ao conteudo que estou estudando na faculdade
 >Programação Orientada a Objeto
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/08133dd5-9c58-4d4d-aa1a-20e0c484f539" width="200" />
+</div>
+
 
 ## Instalações 🪛
 
